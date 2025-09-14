@@ -2,6 +2,8 @@
 
 A Python tool to extract Java class files (`.class`) from memory dump files. It scans for the CAFEBABE magic header and reconstructs class files while preserving the integrity of Java versions and attributes. It also provides optional dump analysis and verification of extracted files.
 
+Any type of memory dump is compatible, task manager's works best from my experience.
+
 ---
 
 ## Features
